@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Te amo mi amor, esto va a ser hecho con mucho amor <3
+          {'Te amo mi amor, esto va a ser hecho con mucho amor <3'}
         </a>
       </header>
     </div>
