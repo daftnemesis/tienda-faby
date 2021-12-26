@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hola Mundo
+          Te amo mi amor, esto va a ser hecho con mucho amor <3
         </a>
       </header>
     </div>
